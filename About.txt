@@ -1,4 +1,11 @@
 This is a text file describing the repo. Upd..
-I will add several lines
-And will make a new PR 
-After that I will merge it to main. 3 LOC should be recorded in aggregations.
+3 lines removed and 1
+2
+3
+4
+5
+6
+7
+8
+9
+10 lines added
